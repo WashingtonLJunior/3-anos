@@ -93,7 +93,7 @@ muteAudio();
             // Após 3 minutos, mostra a div novamente
             setTimeout(function() {
                 messageDiv.style.display = 'block'; // Torna a div visível novamente
-            }, 3000); // 180000 milissegundos = 3 minutos
+            }, 8000); // 180000 milissegundos = 3 minutos
         }
 
         // Chama a função para esconder a div ao carregar a página
